@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun stringToMap(first: String, second: String, third: String): Map<String, Int> {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/12665#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 14 Oct 2022 14:26:49 UTC
+record: -1

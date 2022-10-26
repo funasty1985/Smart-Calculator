@@ -1,0 +1,1 @@
+/home/liangfuski/IdeaProjects/Smart Calculator/Topics/Object declarations/Theory/src/Main.kt
